@@ -1,0 +1,19 @@
+{
+  "name": "ganescha",
+  "description": "placeholder for something great",
+  "main": "index.js",
+  "authors": [
+    "oliver jessner"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Ganescha"
+  ],
+  "homepage": "https://github.com/GaneschaLabs-OS/Ganescha",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
